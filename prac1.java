@@ -4,5 +4,6 @@ class Prac
 	{
 		System.out.println("Hello World HIIIIIIII");
 		System.out.println("Hello World HIIIIIIII");
+		System.out.println("3rd check");
 	}
 }
